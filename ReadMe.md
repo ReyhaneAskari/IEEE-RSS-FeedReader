@@ -12,7 +12,7 @@ After downloading the code you should set up MySQL on your server. Add root user
 	create table articles (url varchar(100), adr varchar(100)t, PRIMARY KEY (adr));
 
 	
-You can then visit index.php to get started and register. 
+You can then visit index.php to get started and register. Try http://ieeexplore.ieee.org/rss/TOC23.XML to see the results. 
 
 # Technologies used
 
