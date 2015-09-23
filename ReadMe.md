@@ -1,6 +1,6 @@
 # RSS feed reader
 
-This project was developed at 2013 as a group of two : Reyhane Askari & Mohadese Bastan
+This project was developed at 2013 as a group of two : Reyhane Askari & <a href="https://github.com/MHDBST">Mohadese Bastan</a>
 
 # How to run the code
 
